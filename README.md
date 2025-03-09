@@ -8,6 +8,6 @@ Currently a student at Univeristy of Delaware, studying Computer Science with a 
 
 📫 How to reach me:
 
-LinkedIn : [](https://www.linkedin.com/in/victoria-nikolaeva04/)
+LinkedIn : [https://www.linkedin.com/in/victoria-nikolaeva04/](https://www.linkedin.com/in/victoria-nikolaeva04/)
 
-Github Account Part 2: [](https://github.com/VikiNiki123)
+Github Account Part 2: [https://github.com/VikiNiki123](https://github.com/VikiNiki123)
