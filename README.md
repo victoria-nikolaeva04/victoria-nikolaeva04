@@ -1,52 +1,30 @@
-<img align="right" src="https://avatars.githubusercontent.com/u/150319175?u=39c088ace95b51908bf2af2f2a074a5fb3439b10&v=4" width="132" alt="Victoria Nikolaeva" />
+<p align="center">
+  <a href="https://victorianikolaeva.com">
+    <img src="./assets/header.png" width="100%" alt="ASCII lily beside a terminal: victoria nikolaeva, software developer, B.S. computer science, minor in interactive media design, University of Delaware. Open to work." />
+  </a>
+</p>
 
-### Hi, I'm Victoria Nikolaeva.
+<p align="center">
+  <a href="https://victorianikolaeva.com"><img src="./assets/link-website.png" width="32%" alt="website: victorianikolaeva.com" /></a>
+  <a href="https://www.linkedin.com/in/victoria-nikolaeva04/"><img src="./assets/link-linkedin.png" width="32%" alt="linkedin: victoria-nikolaeva04" /></a>
+  <a href="https://github.com/vikiniki123"><img src="./assets/link-github.png" width="32%" alt="second github: vikiniki123" /></a>
+</p>
 
-<em>A software developer and recent graduate of the University of Delaware, with a B.S. in Computer Science and a minor in Interactive Media Design.</em>
+<p align="center">
+  <img src="./assets/title-projects.png" width="100%" alt="projects" />
+</p>
 
-<em>I like building user-centric projects that are both technical and creative!</em>
+<p align="center">
+  <a href="https://github.com/victoria-nikolaeva04/personal_portfolio_site"><img src="./assets/card-portfolio.png" width="24%" alt="portfolio site: my portfolio, built from scratch to show recruiters and peers what I've made and how I work. React, TypeScript, Tailwind." /></a>
+  <a href="https://github.com/victoria-nikolaeva04/project_tarot_card"><img src="./assets/card-tarot.png" width="24%" alt="arcana noctis: a tarot reader and card dictionary where the visual design matters as much as the code. Python, Flask, Gemini." /></a>
+  <a href="https://github.com/vikiniki123/starter_helpi"><img src="./assets/card-helpi.png" width="24%" alt="helpi: team final project for CISC275, a React app that helps users explore career paths. React, TypeScript, OpenAI." /></a>
+  <a href="https://github.com/CISC375/SageTeamX"><img src="./assets/card-sage.png" width="24%" alt="sage bot: features I added to the Discord bot that helps manage UD's CIS student server. TypeScript, discord.js, MongoDB." /></a>
+</p>
 
-[Website](https://victorianikolaeva.com) · [LinkedIn](https://www.linkedin.com/in/victoria-nikolaeva04/)
-[GitHub](https://github.com/victoria-nikolaeva04) · [GitHub 2](https://github.com/vikiniki123)
+<p align="center">
+  <img src="./assets/toolshed.png" width="100%" alt="toolshed: TypeScript, JavaScript, Python, Java, C#, React, HTML, CSS, Tailwind, Unity, Figma, Git" />
+</p>
 
-<img src="https://img.shields.io/github/followers/victoria-nikolaeva04?style=flat&label=followers&labelColor=545454&color=313131" alt="followers" /> <img src="https://img.shields.io/github/stars/victoria-nikolaeva04?style=flat&label=stars&labelColor=545454&color=313131" alt="stars" /> <img src="https://img.shields.io/badge/status-open_to_work-313131?style=flat&labelColor=545454" alt="open to work" />
-
-<br clear="right" />
-
-<table><tr><td valign="top" width="50%">
-
-#### Selected work
-
-**[Personal portfolio](https://github.com/victoria-nikolaeva04/personal_portfolio_site)** · TypeScript<br />
-<sub>My portfolio site, built from scratch to show recruiters and peers what I've made and how I work.</sub>
-
-**[Tarot card reader](https://github.com/victoria-nikolaeva04/project_tarot_card)** · CSS<br />
-<sub>A tarot reader and card dictionary, where the visual design matters as much as the code.</sub>
-
-**[Helpi](https://github.com/vikiniki123/starter_helpi)** · TypeScript<br />
-<sub>Team final project for CISC275: a React app that helps users explore career paths.</sub>
-
-**[Sage bot](https://github.com/CISC375/SageTeamX)** · TypeScript<br />
-<sub>Added features to a Discord bot that helps manage UD's CIS student server.</sub>
-
-</td><td valign="top" width="50%">
-
-#### What I bring
-
-- A CS foundation with a design background, so I think about how something looks and feels, not only whether it works.
-- Experience across the stack, from React front ends to Discord bots, Unity games and HCI prototypes.
-- Comfort working on a team, from class projects and hackathons to contributing to shared codebases.
-
-</td></tr></table>
-
-#### Stack
-
-I mostly build with TypeScript, React, HTML and CSS, and I've also worked in Java, C# with Unity, and Figma for prototyping.
-
-<details>
-<summary><b>Activity this year</b></summary>
-<br />
-<img src="https://www.gitskins.com/api/section/heatmap?username=victoria-nikolaeva04&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
-</details>
-
-<p align="center"><sub>Victoria Nikolaeva · Thanks for stopping by!</sub></p>
+<p align="center">
+  <img src="./assets/footer.png" width="100%" alt="ASCII flower meadow: thanks for wandering through the greenhouse" />
+</p>
